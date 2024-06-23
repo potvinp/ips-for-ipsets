@@ -9,3 +9,4 @@ Last Updated: 14 May 2024
 - uptimerobot-v6.txt - https://uptimerobot.com/inc/files/ips/IPv6.txt
 - gptbot-v4.txt - https://openai.com/gptbot-ranges.txt
 - chatgpt-user-v4.txt - https://platform.openai.com/docs/plugins/bot
+- PerplexityBot-v4.txt - https://www.perplexity.ai/perplexitybot.json
