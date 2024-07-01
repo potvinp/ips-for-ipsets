@@ -10,3 +10,5 @@ Last Updated: 14 May 2024
 - gptbot-v4.txt - https://openai.com/gptbot-ranges.txt
 - chatgpt-user-v4.txt - https://platform.openai.com/docs/plugins/bot
 - PerplexityBot-v4.txt - https://www.perplexity.ai/perplexitybot.json
+- nodeping-v4.txt - `dig @8.8.8.8 +short probes.nodeping.com in a`
+- nodeping-v6.txt - `dig @8.8.8.8 +short probes.nodeping.com in aaaa`
