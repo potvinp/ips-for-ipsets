@@ -12,3 +12,5 @@ Last Updated: 14 May 2024
 - PerplexityBot-v4.txt - https://www.perplexity.ai/perplexitybot.json
 - nodeping-v4.txt - `dig @8.8.8.8 +short probes.nodeping.com in a`
 - nodeping-v6.txt - `dig @8.8.8.8 +short probes.nodeping.com in aaaa`
+- shadowserver-v4.txt - https://raw.githubusercontent.com/NoahVail/BadIPs/main/shadowserver.txt
+- shadowserver-v6.txt - https://raw.githubusercontent.com/NoahVail/BadIPs/main/shadowserveripv6.txt
